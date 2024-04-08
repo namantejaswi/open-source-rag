@@ -1,0 +1,10 @@
+/models
+mistral-7b-instruct-v0.1.Q4_K_M.gguf
+llama-2-7b.Q3_K_L.gguf
+gemma-7b-it.Q4_0.gguf
+phi-2.Q4_K_M.gguf
+index_store.json
+image__vector_store.json
+graph_store.json
+docstore.json
+default__vector_store.json
