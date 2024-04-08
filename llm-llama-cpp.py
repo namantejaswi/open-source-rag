@@ -14,7 +14,7 @@ from llama_index.core import VectorStoreIndex,SimpleDirectoryReader,ServiceConte
 print(os.getcwd())
 
 reader = SimpleDirectoryReader(
-    input_files=[r"C:\Users\Naman\Desktop\mistral-rag\files\ny_collaborative_protocols_v23.1.pdf"]
+    input_files=[r"files\ny_collaborative_protocols_v23.1.pdf"]
 )
 
 documents = reader.load_data()
